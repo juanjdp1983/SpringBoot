@@ -1,0 +1,5 @@
+com\stricore\springbootexample\Principal.class
+com\stricore\springbootexample\controller\RestApiController.class
+com\stricore\springbootexample\bean\Customer.class
+com\stricore\springbootexample\bean\CustomerRepository.class
+com\stricore\springbootexample\bean\Datos.class
